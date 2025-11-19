@@ -7,9 +7,9 @@
 - - -
 
 ## Hi Everyone
-   Hari yang menyenangkan teman-teman. Kali ini saya akan memberikan sebuah informasi tentang Script Dabi-Ai ini, ini adalah sebuah Script Dabi-Ai/Base Bot WhatsApp,  dalam rangkaian kali ini saya benar-benar berterima kasih kepada kalian yang menggunakan Script ini.
+   Hari yang menyenangkan teman-teman. Kali ini saya akan memberikan sebuah informasi tentang Script Yukii-Ai ini, ini adalah sebuah Script Yukii-Ai/Base Bot WhatsApp,  dalam rangkaian kali ini saya benar-benar berterima kasih kepada kalian yang menggunakan Script ini.
 
-   Tentu saja Script ini bisa terhubung dengan akun/nomor WhatsApp anda, Berikut adalah beberapa spesifikasi tentang Script Dabi-Ai ini:
+   Tentu saja Script ini bisa terhubung dengan akun/nomor WhatsApp anda, Berikut adalah beberapa spesifikasi tentang Script Yukii-Ai ini:
 
 - Suport Termux
 - Ringan
@@ -151,9 +151,6 @@ Salin atau ketik promt seperti yang ada di bawah ini di termux
    Dan selamat Bot berhasil di jalankan. 
 
 - - -
-
-# Dabi-Ai-Documentation
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabi-Ai-Documentation&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabi-Ai-Documentation)
 
 - - -
 
